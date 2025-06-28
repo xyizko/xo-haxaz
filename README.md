@@ -16,4 +16,4 @@
 
 N | Description
 :--: | :--:
-`h01` | [`Gradio MCP Hackathon 2025 - MCP Based Web3 Security Auditor`](https://github.com/xyizko/xo-ml-HFMCP)
+`h01` | [`Gradio MCP Hackathon 2025 - MCP Based Web3 Security Auditor`](https://huggingface.co/spaces/xyizko/xhmcp)
