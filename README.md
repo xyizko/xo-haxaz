@@ -7,6 +7,7 @@
 
 1. [What ?](#what-)
 2. [List](#list)
+3. [Certificates](#Certs)
 
 # What ? 
 
@@ -18,3 +19,9 @@ N | Description
 :--: | :--:
 `h01` | [`Gradio MCP Hackathon 2025 - MCP Based Web3 Security Auditor`](https://huggingface.co/spaces/xyizko/xhmcp)
 `h02` | [`Kaggle - Gen AI Intensive Course Capstone 2025Q1 - AI OSINT Recon Agent Powered by Google AI Studio and Google Dorks`](https://worx.hashnode.dev/ai-osint-recon-agent-powered-by-google-ai-studio-and-google-dorks)
+
+# Certs 
+
+Certicate | Description
+:--: | :--:
+[![](./gfx/c1.png)](https://huggingface.co/spaces/xyizko/xhmcp) | [`Gradio Agents & MCP Hackathon 2025`](https://huggingface.co/Agents-MCP-Hackathon)
